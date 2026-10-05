@@ -27,8 +27,8 @@ public class App {
     // }
 
 
-        int luku1 = 5;
-        int luku2 = 3;
+        int luku1 = 2;
+        int luku2 = 6;
 
         if (luku1 == luku2) {
             System.out.println("Luvut ovat yhtä suuret");
