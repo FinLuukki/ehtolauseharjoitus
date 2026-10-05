@@ -26,7 +26,7 @@ public class App {
     //     }
     // }
 
-
+        //Luku1 ja luku2 arvot tähän
         int luku1 = 2;
         int luku2 = 6;
 
