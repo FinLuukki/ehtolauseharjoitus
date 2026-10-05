@@ -30,6 +30,7 @@ public class App {
         int luku1 = 2;
         int luku2 = 6;
 
+        //IF ja else if lausekkeet
         if (luku1 == luku2) {
             System.out.println("Luvut ovat yhtä suuret");
         }
